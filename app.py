@@ -130,6 +130,6 @@ if st.button("🚀 Analyze Resume"):
 # Footer
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center;'>Built with ❤️ using Streamlit & Machine Learning</p>",
+    "<p style='text-align: center;'>Built using Streamlit & Machine Learning</p>",
     unsafe_allow_html=True
 )
