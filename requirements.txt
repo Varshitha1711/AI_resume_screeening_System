@@ -4,3 +4,5 @@ numpy
 scikit-learn
 nltk
 pdfplumber
+sentence-transformers
+torch
